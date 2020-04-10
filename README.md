@@ -1,7 +1,7 @@
 # COBOL- Files program
 
 ### English
-It is a small program prepared to create physical and logical files in COBOL, with which you can create your own databases in COBOL.
+It is a small program prepared to create & read physical and logical files in COBOL, with which you can create your own databases in COBOL.
 
 #### Files:
 
@@ -18,7 +18,7 @@ This is a test file (database) with 25 registries.
 https://bit.ly/34oUAVZ
 
 ### Spanish
-Se trata de un pequeño programa preparado para crear archivos físicos y lógicos en COBOL, con lo que podrás crear tus propias bases de datos en COBOL.
+Se trata de un pequeño programa preparado para crear y leer archivos físicos y lógicos en COBOL, con lo que podrás crear tus propias bases de datos en COBOL.
 
 #### Archivos:
 
