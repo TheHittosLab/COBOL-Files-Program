@@ -11,6 +11,12 @@ This file allows you to create your COBOL files (databases).
 -READ-FILES.COB
 This file allows you to read the registries of your COBOL files.
 
+-CREATE-INDEXED-FILE.COB
+This file allows you to create an indexed file.
+
+-READ-INDEXED-FILE.COB
+This file allows you to read an indexed file.
+
 -empleados.dat
 This is a test file (database) with 25 registries.
 
@@ -27,6 +33,12 @@ Este archivo le permite crear sus archivos COBOL (bases de datos).
 
 -READ-FILES.COB
 Este archivo le permite leer los registros de sus archivos COBOL.
+
+-CREATE-INDEXED-FILE.COB
+Este archivo le permite crear un archivo indexado.
+
+-READ-INDEXED-FILE.COB
+Este archivo le permite leer un archivo indexado.
 
 -empleados.dat
 Este es un archivo de prueba (base de datos) con 25 registros.
