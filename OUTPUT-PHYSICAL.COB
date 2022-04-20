@@ -2,7 +2,7 @@
        PROGRAM-ID. OUTPUT-PHYSICAL.
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
-      *Archivo f�sico en modo dinmico.
+      Archivo f�sico en modo dinmico.
        FILE-CONTROL.
        COPY "PHYSICAL-FILE.cbl".
 
